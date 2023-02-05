@@ -1,0 +1,1 @@
+This repository contains starter files for a demo webpage using the Google Maps JavaScript API.
